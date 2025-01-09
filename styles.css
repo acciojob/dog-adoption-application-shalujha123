@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+/* form{
+	width: 100%;
+	height: 100%;
+} */
+input{
+	margin-left: 5px;
+	padding: 5px;
+	align-items: center;
+}
+label{
+	margin: 5px;
+}
